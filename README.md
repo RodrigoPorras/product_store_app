@@ -1,16 +1,30 @@
-# form_validation
+# Product Store App
 
-A new Flutter project.
+App for using login and file storage using Firebase.
 
-## Getting Started
+- Using Bloc
+- Forms using Bloc
+- Login UI design 
+- InheritedWidget
+- Connect inputs with Streams
+- Validations.
+- CRUD to firebase 
+- Calling REST services 
+- Image loading
+- Camera Access 
+- Camera Gallery Access
+- New users on firebase
+- Firebase Auth Rest API
+- Tokens Handling
 
-This project is a starting point for a Flutter application.
+Login 
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/RodrigoPorras/product_store_app/blob/master/gif/login.gif" height="500" />
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Create Product 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/RodrigoPorras/product_store_app/blob/master/gif/create.gif" height="500" />
+
+Delete Product
+
+<img src="https://github.com/RodrigoPorras/product_store_app/blob/master/gif/delete.gif" height="500" />
